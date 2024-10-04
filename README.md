@@ -10,7 +10,7 @@ Welcome to my data-driven world! I'm Ricaldo, a passionate data scientist on a m
 - **SQL** 🗃️: Crafting queries that make databases dance
 - **Power BI** 📊: Turning numbers into narratives through stunning visualizations
 - **Machine Learning** 🤖: From regression to deep learning, I train models that see the unseen
-- **Big Data Technologies** 🌐: Hadoop, Spark, and more for when your data outgrows your hard drive
+  
 
 ### 🧠 The Method to My Madness
 
